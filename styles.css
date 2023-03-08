@@ -1,0 +1,15 @@
+.form1 {
+    margin-left: 100px;
+}
+.form2 {
+    margin-left: 100px;
+}
+
+.g1 {
+    display: inline-block;
+}
+
+.g1, .weight, .height, .submit {
+    margin-top: 10px;
+}
+
